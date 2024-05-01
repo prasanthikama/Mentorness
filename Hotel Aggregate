@@ -1,0 +1,13 @@
+Dataset Description:
+1. id: Unique identifier for each listing.
+2. listing_url: URL of the listing on the hotel aggregator platform.
+3. scrape_id: Identifier for the data scraping event.
+4. last_scraped: Date of the last data scrape.
+5. source: Source of the listing information.
+6. name: Name of the listing.
+7. description: Description of the listing.
+8. neighborhood_overview: Overview of the neighborhood where the listing is located.
+9. picture_url: URL of the listing's picture.
+10. host_id: Unique identifier for the host.
+11. ... (and many more columns capturing details about hosts, location, property type, room details,
+amenities, pricing, availability, reviews, and other relevant information)
